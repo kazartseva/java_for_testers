@@ -13,10 +13,15 @@ public class HelloWorld {
 		
 		Rectangle r = new Rectangle(4,5);
 		System.out.println("площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area());
+	
 	}
 	
 	public static void hello(String somebody) {
 		System.out.println("Hello, "+ somebody + "!");
 	}
+	
+
+	
+	
 
 }
